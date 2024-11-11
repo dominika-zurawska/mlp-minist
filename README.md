@@ -1,4 +1,4 @@
-# **Wielowarstwowy perceptron do nierozpoznawania pisma ręcznego**
+# **Wielowarstwowy perceptron do rozpoznawania pisma ręcznego**
 ----------------------------------------------------------------
 
 ## Pojęcia 
