@@ -1,0 +1,30 @@
+artifact_path: mlp_model
+flavors:
+  python_function:
+    artifacts:
+      model_path:
+        path: artifacts/mlp.py
+        uri: src/mlp/mlp.py
+    cloudpickle_version: 3.1.0
+    code: code
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.10
+    streamable: false
+mlflow_version: 2.17.2
+model_size_bytes: 24635636
+model_uuid: 7e183b1cd91d43c6abcddb79367e813b
+run_id: 8f051fecd14648d5b906b3a629c4d2ad
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 784]}}]'
+  outputs: null
+  params: '[{"name": "predict_method", "type": "string", "default": "predict", "shape":
+    null}]'
+utc_time_created: '2024-11-03 00:02:52.442508'

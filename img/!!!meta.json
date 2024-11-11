@@ -1,0 +1,96 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.90.8",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "MYgje9uoWSjF",
+			"notePath": [
+				"MYgje9uoWSjF"
+			],
+			"title": "readme",
+			"notePosition": 40,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "markdown",
+			"dataFileName": "readme.md",
+			"attachments": [
+				{
+					"attachmentId": "aayJnnyZZHbA",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "readme_image.png"
+				},
+				{
+					"attachmentId": "C95EZgHWNXqu",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "1_readme_image.png"
+				},
+				{
+					"attachmentId": "64HSkbsny8mC",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "2_readme_image.png"
+				},
+				{
+					"attachmentId": "hSa1LZTcNHAq",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "3_readme_image.png"
+				},
+				{
+					"attachmentId": "JeFQ75cprkKI",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "4_readme_image.png"
+				},
+				{
+					"attachmentId": "GCq8Pt7U32GU",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "5_readme_image.png"
+				},
+				{
+					"attachmentId": "ecB8gjNXzBnZ",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "6_readme_image.png"
+				},
+				{
+					"attachmentId": "6nZwSqnBzwBK",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "7_readme_image.png"
+				},
+				{
+					"attachmentId": "ea0gpxo14aYd",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "8_readme_image.png"
+				}
+			]
+		}
+	]
+}

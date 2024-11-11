@@ -1,0 +1,9 @@
+
+
+hyper_best_parmas:
+  hidden_size: 256
+  epochs: 100
+  batch_size: 32
+  initial_lr: 0.01
+  decay: 0.001
+  patience: 5

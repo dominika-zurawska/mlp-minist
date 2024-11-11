@@ -11,3 +11,9 @@ mlruns
 uv.lock
 # Virtual environments
 .venv
+requirements-dev.in
+testy.ipynb
+pyproject.toml
+
+mnist_test.csv
+mnist_train.csv
