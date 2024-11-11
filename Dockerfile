@@ -12,12 +12,16 @@ RUN apt-get update && apt-get install -y libgl1
 
 RUN apt-get update && apt-get install -y libglib2.0-0
 
+RUN apt-get update && apt-get install unzip
+
 COPY requirements.txt .
 
 RUN pip3 install -r requirements.txt
 
 COPY src/ src/
 COPY data/ data/
+
+RUN unzip -o data/mnist.zip -d data/
 
 EXPOSE 8501
 EXPOSE 5000
